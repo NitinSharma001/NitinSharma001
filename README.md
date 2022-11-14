@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitinSharma001
 - 👀 I’m interested in new New Technologies
-- 🌱 I’m currently learning FULL STACK
+- 🌱 I’m currently learning FULL STACK Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter - Nitinsharma002
 
